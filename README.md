@@ -1,2 +1,2 @@
-# T-picos-Especiais-em-Programa-o-2
+# Tópicos-Especiais-em-Programação-2
 Repositório voltado para a disciplina. 
